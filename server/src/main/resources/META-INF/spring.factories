@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zhan.server.registry.consul.configuration.ConsulAutoConfiguration
